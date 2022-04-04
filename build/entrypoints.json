@@ -2,10 +2,10 @@
   "entrypoints": {
     "main": {
       "css": [
-        "/public/build/main.css"
+        "/build/main.css"
       ],
       "js": [
-        "/public/build/main.js"
+        "/build/main.js"
       ]
     }
   }
