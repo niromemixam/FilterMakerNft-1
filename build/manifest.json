@@ -1,9 +1,9 @@
 {
-  "public/build/main.css": "public/build/main.css",
-  "public/build/main.js": "public/build/main.js",
-  "public/build/images/fm.jpeg": "public/build/images/fm.jpeg",
-  "public/build/images/fond.png": "public/build/images/fond.png",
-  "public/build/images/logo.png": "public/build/images/logo.png",
-  "public/build/images/preview.png": "public/build/images/preview.png",
-  "public/build/images/fav.png": "public/build/images/fav.png"
+  "public/build/main.css": "/public/build/main.css",
+  "public/build/main.js": "/public/build/main.js",
+  "public/build/images/fm.jpeg": "/public/build/images/fm.jpeg",
+  "public/build/images/fond.png": "/public/build/images/fond.png",
+  "public/build/images/logo.png": "/public/build/images/logo.png",
+  "public/build/images/preview.png": "/public/build/images/preview.png",
+  "public/build/images/fav.png": "/public/build/images/fav.png"
 }
