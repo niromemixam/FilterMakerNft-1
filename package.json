@@ -16,6 +16,7 @@
         "ethers": "^5.5.3",
         "file-loader": "^6.0.0",
         "gh-pages": "^3.2.3",
+        "gh-pages-deploy": "^0.5.1",
         "hardhat-typechain": "^0.3.5",
         "keccak256": "^1.0.6",
         "merkletreejs": "^0.2.27",
@@ -39,6 +40,6 @@
         "dev": "encore dev",
         "watch": "encore dev --watch",
         "build": "encore production --progress",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages-deploy"
     }
 }
