@@ -33,7 +33,7 @@ interface State {
 const defaultState: State = {
   userAddress: null,
   network: null,
-  networkConfig: CollectionConfig.mainnet,
+  networkConfig: CollectionConfig.testnet,
   totalSupply: 0,
   maxSupply: 0,
   maxMintAmountPerTx: 0,
